@@ -1,6 +1,6 @@
 # react-native-mathjs-demo
 
-A simple calculator build with [react-native](https://facebook.github.io/react-native/), 
+A simple calculator built with [react-native](https://facebook.github.io/react-native/), 
 powered by [math.js](http://mathjs.org).
 
 <img 
