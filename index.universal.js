@@ -96,6 +96,7 @@ let Calculator = React.createClass({
           <View style={{flex: 1}} >
             <TextInput
                 ref="input"
+                autoCorrect={false}
                 enablesReturnKeyAutomatically={true}
                 style={styles.inputExpr}
                 onChangeText={(expression) => this.setState({expression})}
